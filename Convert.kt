@@ -1,6 +1,6 @@
 // Name : Jenil Parmar
 // student id : A00271994
-// course name : mobile application development
+// Program Description :- This program takes value from user which will represent distance measurement unit and converts that value into another distance units
 
 
 fun main(){
